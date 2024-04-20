@@ -1,0 +1,7 @@
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\bin\Debug\Calculator_Practice1.exe.config
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\bin\Debug\Calculator_Practice1.exe
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\bin\Debug\Calculator_Practice1.pdb
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\obj\Debug\Calculator_Practice1.csproj.AssemblyReference.cache
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\obj\Debug\Calculator_Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\obj\Debug\Calculator_Practice1.exe
+C:\Users\Vika\Desktop\c#\Calculator_Practice1\Calculator_Practice1\obj\Debug\Calculator_Practice1.pdb
