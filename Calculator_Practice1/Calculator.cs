@@ -1,4 +1,6 @@
-﻿namespace Calculator_Practice1
+﻿using System;
+
+namespace Calculator_Practice1
 {
     public class Calculator
     {
@@ -21,5 +23,7 @@
         {
             return a / b;
         }
+
+
     }
 }

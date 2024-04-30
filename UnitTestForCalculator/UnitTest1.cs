@@ -69,5 +69,20 @@ namespace UnitTestForCalculator
             // Assert
             Assert.AreEqual(result, actual);
         }
+
+        [TestMethod]
+        public void Square_4_returned16()
+        {
+            // Arrange
+            double a = 4;
+            double result = 16;
+
+            // Act
+            Calculator calculator = new Calculator();
+            double actual = calculator.Square(a);
+
+            // Assert
+            Assert.AreEqual(result, actual);
+        }
     }
 }
